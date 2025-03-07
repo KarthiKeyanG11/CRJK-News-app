@@ -12,7 +12,8 @@ A modern and responsive news application built with React and APIs, designed to 
 - ⚡ **Optimized for fast loading**
 
 ## 🖼️ Screenshots
-[Screenshot_7-3-2025_191655_localhost](https://github.com/user-attachments/assets/1d29bd17-3350-48cf-a335-b5d4b406a1d5)
+
+[Screenshot_7-3-2025_191655_localhost](https://github.com/user-attachments/assets/e2188dde-d179-4311-ba2c-c857d7ff7d74)
 
 ## Technologies Used 🛠️
 
@@ -58,11 +59,11 @@ This will create an optimized production build inside the `dist` folder.
 
 ## Contributors 🤝
 
-👨‍💻 **Team Leader:** KARTHIKEYAN G  
-👨‍💻 **Team Member:** RAGHUL M  
-👨‍💻 **Team Member:** CHANDRU A  
-👨‍💻 **Team Member:** RAKESH R  
-👨‍💻 **Team Member:** JANARTHANAN S  
+👨‍💻 **[KARTHIKEYAN G](mailto:karthikeyan1152005@gmail.com)** - Team Leader  
+👨‍💻 **[RAGHUL M](mailto:raghul.cs2225@gmail.com)** - Team Member  
+👨‍💻 **[CHANDRU A](mailto:chandru.cs2225@gmail.com)** - Team Member  
+👨‍💻 **[RAKESH R](mailto:rakesh.cs2225@gmail.com)** - Team Member  
+👨‍💻 **[JANARTHANAN S](mailto:janarthanan.cs2225@gmail.com)** - Team Member  
 
 ---
 
