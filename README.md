@@ -11,6 +11,9 @@ A modern and responsive news application built with React and APIs, designed to 
 - 📐 **Professional, visually appealing UI** with a multi-column layout
 - ⚡ **Optimized for fast loading**
 
+## 🖼️ Screenshots
+[Screenshot_7-3-2025_191655_localhost](https://github.com/user-attachments/assets/1d29bd17-3350-48cf-a335-b5d4b406a1d5)
+
 ## Technologies Used 🛠️
 
 - **Frontend:** React with Vite
@@ -55,15 +58,11 @@ This will create an optimized production build inside the `dist` folder.
 
 ## Contributors 🤝
 
-Team Leader : KARTHIKEYAN G
-
-Team member : RAGHUL M
-
-Team member : CHANDRU A
-
-Team member : RAKESH R
-
-Team member : JANARTHANAN S
+👨‍💻 **Team Leader:** KARTHIKEYAN G  
+👨‍💻 **Team Member:** RAGHUL M  
+👨‍💻 **Team Member:** CHANDRU A  
+👨‍💻 **Team Member:** RAKESH R  
+👨‍💻 **Team Member:** JANARTHANAN S  
 
 ---
 
